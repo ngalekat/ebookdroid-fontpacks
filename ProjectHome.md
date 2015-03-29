@@ -1,0 +1,1 @@
+This project contains font packs for EBookDroid reader.
